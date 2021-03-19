@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Twitter Clone
 
 > This project is a clone of twitter made with Ruby on Rails.
